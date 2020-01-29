@@ -3,6 +3,12 @@ Exercises
 
 (Use C/C++/Java/Python)
 
+- [x] Exercise-1
+- [ ] Exercise-2
+- [ ] Exercise-3
+- [ ] Exercise-4
+- [ ] Exercise-5
+
 # Exercise 1
 1. Create a data file to store records of the students 
     (fields: rollno, name, branch,age).
